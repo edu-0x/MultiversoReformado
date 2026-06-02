@@ -48,7 +48,7 @@ db.nerd_universe_clean
 ---
 
 ## 📤 Exportação
-```json
+```js
 mongoexport --collection=nerd_universe_clean --out=nerd_universe_clean.json --jsonArray
 ```
 ---
